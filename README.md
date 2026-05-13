@@ -190,4 +190,3 @@ This software is for **educational and demonstration purposes only**. It is **no
 ## Author ✍️
 
 - **Name**: Mohamed Younis
-- **Course**: AIE212 — Knowledge-Based Systems (KBS)
